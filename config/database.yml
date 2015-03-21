@@ -5,7 +5,7 @@ development:
   adapter: postgresql
   encoding: utf8
   database: railsbricks_app_development
-  username: _spotlight
+  username: liamdarmody
   host: localhost
   pool: 5
   port: 5432
